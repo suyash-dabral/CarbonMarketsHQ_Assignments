@@ -1,1 +1,3 @@
-# CarbonMarkets_HQ_Assignements
+# CarbonMarketsHQ_Assignments
+
+This repository includes the assignments given by CarbonMarketsHQ.
