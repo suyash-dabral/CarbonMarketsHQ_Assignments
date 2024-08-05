@@ -3,16 +3,16 @@
 
 The workflow of this task is as follows:
 
-1- Creating synthetic dataset 
-2- Creating a custom price calculator
-3- Visualization of different factors and how they affect the pricing
+1- Creating synthetic dataset \
+2- Creating a custom price calculator\
+3- Visualization of different factors and how they affect the pricing\
 4- Command line implementation of Custom pricing model (User Input)
 
 
 The files can be found using following link:
 https://drive.google.com/drive/folders/1TKkcxh-U6riRlIrM7T3SezxgOTVutWEp?usp=drive_link
 
-The file created is:
+The file created is:\
 synthetic_dataset.csv
 
 
